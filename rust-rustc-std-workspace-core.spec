@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        1.0.0
-Release:        1
+Release:        2
 Summary:        Explicitly empty crate for rust-lang/rust integration
 
 # Upstream license specification: MIT/Apache-2.0
